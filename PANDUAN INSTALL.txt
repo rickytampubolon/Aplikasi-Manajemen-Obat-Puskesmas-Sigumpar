@@ -1,0 +1,13 @@
+APLIKASI MANAJEMEN OBAT PUSKESMAS SIGUMPAR D
+APLIKASI INI TIDAK UNTUK DIJUAL.
+
+### PANDUAN CARA INSTALL
+copy project ke localhost ( xampp/htdocs/proyek )
+buat database dengan nama db_obat
+import database
+konfigurasinya ada di admin/config.php
+
+akses : localhost/proyek/
+
+Username : administrator
+Password : administrator
